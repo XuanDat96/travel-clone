@@ -1,0 +1,67 @@
+@media (max-width: 739px)
+{
+    .header{
+        height:100%;
+    }
+    .background 
+{
+    background-color: #555555 ;
+}
+    .nav{
+        display:block;
+       text-align: center;
+       
+    }
+    .nav__menu-list
+    {
+        display: none;
+       
+    }
+   
+    .hero__heading-search
+    {
+        width:90%;
+
+    }
+    .header__hero
+    {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-bottom: 30%;
+        
+    }
+    .hero__search
+    {
+        width:90%;
+    }
+    .hero__travel-list
+    {
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        flex-direction:column;
+        
+    }
+    .hero__travel-item
+    {
+        width:250px;
+        
+    }
+    .content__beaches-right-date
+    {
+        width:100%;
+        bottom:0;
+        
+    }
+    .content__beaches-right-slider-img
+    {
+       
+    }
+    .content-middle
+    {
+        display:flex;
+        align-items:center;
+        justify-content:space-around;
+        flex-direction:column;;
+    }
+}
